@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HelperStockBeta.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HelperStockBeta.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperStockBeta.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HelperStockBeta.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HelperStockBeta.Domain/HelperStockBeta.Domain.csproj",
+      "msbuildProject": "../HelperStockBeta.Domain/HelperStockBeta.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HelperStockBeta.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+              "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HelperStockBeta.Aplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HelperStockBeta.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HelperStockBeta.Aplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperStockBeta.Aplication.dll": {}
+        }
+      },
+      "HelperStockBeta.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HelperStockBeta.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperStockBeta.Domain.dll": {}
+        }
+      },
+      "HelperStockBeta.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HelperStockBeta.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HelperStockBeta.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelperStockBeta.Infra.Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HelperStockBeta.Aplication/1.0.0": {
+      "type": "project",
+      "path": "../HelperStockBeta.Aplication/HelperStockBeta.Aplication.csproj",
+      "msbuildProject": "../HelperStockBeta.Aplication/HelperStockBeta.Aplication.csproj"
+    },
+    "HelperStockBeta.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HelperStockBeta.Domain/HelperStockBeta.Domain.csproj",
+      "msbuildProject": "../HelperStockBeta.Domain/HelperStockBeta.Domain.csproj"
+    },
+    "HelperStockBeta.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../HelperStockBeta.Infra.Data/HelperStockBeta.Infra.Data.csproj",
+      "msbuildProject": "../HelperStockBeta.Infra.Data/HelperStockBeta.Infra.Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HelperStockBeta.Aplication >= 1.0.0",
+      "HelperStockBeta.Domain >= 1.0.0",
+      "HelperStockBeta.Infra.Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\": {},
@@ -38,7 +95,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj": {
+              "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Aplication\\HelperStockBeta.Aplication.csproj"
+            },
+            "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+              "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+            },
+            "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj": {
+              "projectPath": "D:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.Data\\HelperStockBeta.Infra.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
