@@ -5,9 +5,17 @@ Projeto para inicializarmos o contexto de serviços em C# com .net core.
 
 # Modelagem para atendimento de Web API 100 .net core:
 
-Definir no projeto as funcionalidades para poder consultar, criar, editar e excluir (CRUD) de produtos e categorias.
-Definir o modelo de domínio usando propriedades de Product e Category
-Utilizaremos o paradigma de Arquitetura Limpa ou abordagem (Clean Architecture)
-Iremos impementar MVC, Repository ORM e CQRS
-Definir atributos para domínios Product: [Id (Int, Identity), Name (String), Desription (String), Price (Decimal), Stock(Int), Image(String)], Category: [CategoryId (Int, Identity), Name (String)]
-Definir o relacionamento utilizado entre os domínios: teremos um relacionamento um - para - muitos entre Categoria e Produto.
+- Definir no projeto as funcionalidades para poder consultar, criar, editar e excluir (CRUD) de produtos e categorias.
+- Definir o modelo de domínio usando propriedades de Product e Category
+- Utilizaremos o paradigma de Arquitetura Limpa ou abordagem (Clean Architecture)
+- Iremos impementar MVC, Repository ORM e CQRS
+- Definir atributos para domínios Product: [Id (Int, Identity), Name (String), Desription (String), Price (Decimal), Stock(Int), Image(String)], Category: [CategoryId (Int, Identity), Name (String)]
+- Definir o relacionamento utilizado entre os domínios: teremos um relacionamento um - para - muitos entre Categoria e Produto.
+
+# Ferramentas do Escopo Geral
+
+- Usar um banco de dados relacional: SQL Server
+- Usar uma ferramenta ORM: Entity Framework Core
+- Usar a abordagem Code-First do Entity Framework Core para criar o banco e as tabelas.
+- Provedor para aplicar o Migrations: Microsoft.EntityFrameworkCore.Tools
+- Desacoplar a camada de acesso a dados do ORM: Padrão Repository
