@@ -17,3 +17,22 @@ D:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\
 D:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\refint\HelperStockBeta.Infra.IoC.dll
 D:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
 D:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\ref\HelperStockBeta.Infra.IoC.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.deps.json
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Aplication.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Domain.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.Data.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Aplication.pdb
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Domain.pdb
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.Data.pdb
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.AssemblyInfo.cs
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.CopyComplete
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\refint\HelperStockBeta.Infra.IoC.dll
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
+C:\Users\Victor Icoma\Source\Repos\victoricoma\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\ref\HelperStockBeta.Infra.IoC.dll
