@@ -19,3 +19,9 @@ Projeto para inicializarmos o contexto de serviços em C# com .net core.
 - Usar a abordagem Code-First do Entity Framework Core para criar o banco e as tabelas.
 - Provedor para aplicar o Migrations: Microsoft.EntityFrameworkCore.Tools
 - Desacoplar a camada de acesso a dados do ORM: Padrão Repository
+
+# Arquitetura de Repositorys
+- As assinaturas de métodos.
+- Recursos de acesso a camada de Infra dados.
+- Interfaces de comunicação com modelo MER via ORM Entity Framework.
+- Camada de testes automatizados usando xUnit.
