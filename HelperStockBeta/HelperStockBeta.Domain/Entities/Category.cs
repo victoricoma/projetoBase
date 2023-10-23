@@ -8,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace HelperStockBeta.Domain.Entities
 {
-    public sealed class Category
+    public sealed class Category: Entity
     {
-        public int Id { get; private set; }
-        public string Name { get; private set; }
+      public string Name { get; private set; }
 
         //Relações de Entidade
         
@@ -30,6 +29,12 @@ namespace HelperStockBeta.Domain.Entities
             ValidateDomain(name);
             Name = name;
         }
+
+        public void Update(string nome)
+        {
+            ValidateDomain(nome);
+        }
+
 
         public void ValidateDomain(string name)
         {
