@@ -3,18 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.Application", "HelperStockBeta.Application\HelperStockBeta.Application.csproj", "{B8A4A57B-8BDB-4317-B7D2-728C5BEA0DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperStockBeta.Application", "HelperStockBeta.Application\HelperStockBeta.Application.csproj", "{B8A4A57B-8BDB-4317-B7D2-728C5BEA0DE0}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C1DC23EA-94B4-42B3-9B4B-0B0572B93FE4} = {C1DC23EA-94B4-42B3-9B4B-0B0572B93FE4}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.Domain", "HelperStockBeta.Domain\HelperStockBeta.Domain.csproj", "{C1DC23EA-94B4-42B3-9B4B-0B0572B93FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperStockBeta.Domain", "HelperStockBeta.Domain\HelperStockBeta.Domain.csproj", "{C1DC23EA-94B4-42B3-9B4B-0B0572B93FE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.Infra.IoC", "HelperStockBeta.Infra.IoC\HelperStockBeta.Infra.IoC.csproj", "{6CE92FC2-0A91-4E7F-9B54-44020805AAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperStockBeta.Infra.IoC", "HelperStockBeta.Infra.IoC\HelperStockBeta.Infra.IoC.csproj", "{6CE92FC2-0A91-4E7F-9B54-44020805AAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.Infra.Data", "HelperStockBeta.Infra.Data\HelperStockBeta.Infra.Data.csproj", "{D2DAC343-55FA-4AB0-A3CA-490414250510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperStockBeta.Infra.Data", "HelperStockBeta.Infra.Data\HelperStockBeta.Infra.Data.csproj", "{D2DAC343-55FA-4AB0-A3CA-490414250510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.WebUI", "HelperStockBeta.WebUI\HelperStockBeta.WebUI.csproj", "{012E675C-34AE-453E-85A5-EEC69467E263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperStockBeta.WebUI", "HelperStockBeta.WebUI\HelperStockBeta.WebUI.csproj", "{012E675C-34AE-453E-85A5-EEC69467E263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperStockBeta.Domain.Test", "HelperStockBeta.Domain.Test\HelperStockBeta.Domain.Test.csproj", "{7B65E0C8-50AD-4A40-85BF-18671BB6CBE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,10 @@ Global
 		{012E675C-34AE-453E-85A5-EEC69467E263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{012E675C-34AE-453E-85A5-EEC69467E263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{012E675C-34AE-453E-85A5-EEC69467E263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B65E0C8-50AD-4A40-85BF-18671BB6CBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B65E0C8-50AD-4A40-85BF-18671BB6CBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B65E0C8-50AD-4A40-85BF-18671BB6CBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B65E0C8-50AD-4A40-85BF-18671BB6CBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
