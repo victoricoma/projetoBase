@@ -11,8 +11,8 @@ namespace HelperStockBeta.Domain.Interface
     {
         //Assinaturas Customizadas
         Task<IEnumerable<Product>> GetProductsAsync();
-        Task<Product> GetByIdAsync (int id);
-        Task<Product> GetProductCategoryAsync(int id);
+        Task<Product> GetByIdAsync (int? id);
+        Task<Product> GetProductCategoryAsync(int? id);
 
         //Assinaturas do CRUD
         Task<Product> CreateAsync(Product product);
