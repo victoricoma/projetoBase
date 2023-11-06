@@ -31,3 +31,12 @@ Projeto para inicializarmos o contexto de serviços em C# com .net core.
 - Configuração das Classes em camada de dados.
 - Infraestrutura de interfaces.
 - Entidades de Infra estrutura no Sql, Design, Core.
+
+# Modelagem de Inversão de Controle com Injeção de Dependência
+- Determinação da classe de IServiceCollection.
+- Vinculo com a mecânica de persistência do motor de Repository.
+- Modelo de construtor da IoC.
+
+[Imagem de Implementação Lógica]
+
+![Modelo de Inicialização de Serviços](https://github.com/victoricoma/projetoBase/assets/31005408/27cad629-4504-4690-b686-1e89bcf98c3d)
