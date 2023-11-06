@@ -10,3 +10,14 @@ C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\refint\HelperStockBeta.Domain.dll
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.pdb
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\ref\HelperStockBeta.Domain.dll
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\bin\Debug\net6.0\HelperStockBeta.Domain.deps.json
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\bin\Debug\net6.0\HelperStockBeta.Domain.dll
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\bin\Debug\net6.0\HelperStockBeta.Domain.pdb
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.AssemblyInfoInputs.cache
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.AssemblyInfo.cs
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.csproj.CoreCompileInputs.cache
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.dll
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\refint\HelperStockBeta.Domain.dll
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\HelperStockBeta.Domain.pdb
+D:\repositórios\projetoBase\HelperStockBeta\HelperStockBeta.Domain\obj\Debug\net6.0\ref\HelperStockBeta.Domain.dll

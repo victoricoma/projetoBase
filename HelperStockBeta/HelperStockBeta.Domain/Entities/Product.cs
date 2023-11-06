@@ -40,7 +40,7 @@ namespace HelperStockBeta.Domain.Entities
                 "Invalid negative values for price.");
             DomainExceptionValidation.When(stock < 0,
                 "Invalid negative values for stock.");
-            DomainExceptionValidation.When(image.Length > 250,
+            DomainExceptionValidation.When(image?.Length > 250,
                 "Invalid long URL, maximum 250 characteres.");
             Name = name;
             Description = description;
