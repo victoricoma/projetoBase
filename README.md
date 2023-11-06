@@ -38,5 +38,5 @@ Projeto para inicializarmos o contexto de serviços em C# com .net core.
 - Modelo de construtor da IoC.
 
 [Imagem de Implementação Lógica]
+![image](https://github.com/victoricoma/projetoBase/assets/31005408/c7e50b99-c921-4268-9bc0-481b5ef58c73)
 
-![Modelo de Inicialização de Serviços](https://github.com/victoricoma/projetoBase/assets/31005408/27cad629-4504-4690-b686-1e89bcf98c3d)
