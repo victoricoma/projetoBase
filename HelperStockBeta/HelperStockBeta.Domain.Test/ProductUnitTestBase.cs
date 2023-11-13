@@ -1,14 +1,12 @@
-﻿using HelperStockBeta.Domain.Entities;
-using FluentAssertions;
-using System;
-using Xunit;
+﻿using FluentAssertions;
+using HelperStockBeta.Domain.Entities;
 
 namespace HelperStockBeta.Domain.Test
 {
     public class ProductUnitTestBase
     {
-    #region Testes positivos de Produto
-        [Fact(DisplayName ="Product test image URL null.")]
+        #region Testes positivos de Produto
+        [Fact(DisplayName = "Product test image URL null.")]
         public void CreateProduct_WithNullImageName_ResultValid()
         {
             Action action = () => new Product(1, "Product Name", "Product Description", 9.99m, 99, null);
@@ -32,7 +30,7 @@ namespace HelperStockBeta.Domain.Test
             action.Should()
                 .NotThrow<HelperStockBeta.Domain.Validation.DomainExceptionValidation>();
         }
-        [Fact(DisplayName ="Product image URL is empty")]
+        [Fact(DisplayName = "Product image URL is empty")]
         public void CreateProduct_WithEmptyImageName_ResultValid()
         {
             Action action = () => new Product(1, "Product Name", "Product Description", 9.99m, 99, "");
@@ -40,7 +38,7 @@ namespace HelperStockBeta.Domain.Test
         }
         #endregion
 
-    #region Testes Negativos de Produto
+        #region Testes Negativos de Produto
         [Fact(DisplayName = "Product negative id")]
         public void CreateProduct_NegativeIdValue_ResultException()
         {
@@ -51,7 +49,7 @@ namespace HelperStockBeta.Domain.Test
                 .WithMessage("Invalid negative values for id.");
         }
 
-        [Fact(DisplayName ="Product a short name")]
+        [Fact(DisplayName = "Product a short name")]
         public void CreateProduct_ShortNameValue_ResultException()
         {
             Action action = () => new Product(1, "Pr", "Product Description", 9.99m, 99,
@@ -60,7 +58,7 @@ namespace HelperStockBeta.Domain.Test
                  .WithMessage("Invalid short names, minimum 3 characteres.");
         }
 
-        [Fact(DisplayName ="Product image URL is long for use")]
+        [Fact(DisplayName = "Product image URL is long for use")]
         public void CreateProduct_LongImageName_ResultException()
         {
             Action action = () => new Product(1, "Product Name", "Product Description", 9.99m,
@@ -70,7 +68,7 @@ namespace HelperStockBeta.Domain.Test
                 .Throw<HelperStockBeta.Domain.Validation.DomainExceptionValidation>()
                  .WithMessage("Invalid long URL, maximum 250 characteres.");
         }
-        [Fact (DisplayName ="Prtoduct is negative price")]
+        [Fact(DisplayName = "Prtoduct is negative price")]
         public void CreateProduct_InvalidPriceValue_ResultException()
         {
             Action action = () => new Product(1, "Product Name", "Product Description", -9.99m,

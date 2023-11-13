@@ -13,7 +13,7 @@ namespace HelperStockBeta.Infra.IoC
             IConfiguration configuration)
         {
             services.AddDbContext<ApplicationDbContext>(
-                options => 
+                options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
                 b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 

@@ -6,7 +6,7 @@ namespace HelperStockBeta.Domain.Test
     #region Casos de testes positivos
     public class CategoryUnitTestBase
     {
-        [Fact(DisplayName ="Category name is not null")]
+        [Fact(DisplayName = "Category name is not null")]
         public void CreateCategory_WithValidParemeters_ResultValid()
         {
             Action action = () => new Category(1, "Categoria Teste");
@@ -21,9 +21,9 @@ namespace HelperStockBeta.Domain.Test
             action.Should()
                 .NotThrow<HelperStockBeta.Domain.Validation.DomainExceptionValidation>();
         }
-    #endregion
+        #endregion
 
-    #region Casos de testes negativos
+        #region Casos de testes negativos
         [Fact(DisplayName = "Id negative exception.")]
         public void CreateCategory_NegativeParameterId_ResultException()
         {
