@@ -13,3 +13,5 @@ C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\obj\Debug
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\obj\Debug\net6.0\refint\HelperStockBeta.Infra.Data.dll
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\obj\Debug\net6.0\HelperStockBeta.Infra.Data.pdb
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\obj\Debug\net6.0\ref\HelperStockBeta.Infra.Data.dll
+C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\bin\Debug\net6.0\HelperStockBeta.Infra.Data.runtimeconfig.json
+C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.Data\obj\Debug\net6.0\HelperStockBeta.Infra.Data.genruntimeconfig.cache
