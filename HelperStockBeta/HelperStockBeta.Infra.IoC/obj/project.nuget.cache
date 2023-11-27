@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/s4l9Z3XeJ4MUIJ1qCQybQ/SDif9v+ZR+odHmgfUFrDCRKiBfJsPhYO3kRwjLF8mRDGhsqvBYRby1aAbDr446Q==",
+  "dgSpecHash": "h4L29+OKOAN30mUZHp14rsQKvThzUW3E456omo5dO+gIqM8QO0FZrvWy/Y29VvzSF2y9B9nsFejZ9V3g4H5tqw==",
   "success": true,
   "projectFilePath": "D:\\repositórios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cvLZh2YjRxsGwwzMEqk/eG94Ssv6WBB1QD2wUT21jhAnSYiWBcm2jLilrxSWONUa/l0xH/jIUycBHOVYPagXcg==",
+  "dgSpecHash": "7hPLpEtrgc8PGWkPFMmJNQ4flW2eh98vxo47d5toP2ISMmV+5boyY18yJLwx90apGMUIYULBdQxK7+blA6woBA==",
   "success": true,
   "projectFilePath": "D:\\repositórios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

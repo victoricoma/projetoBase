@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jCXwrLVsQ30kfddwgy5xvFy8r8NSz2r9Dff5oqbqQGGjzUDr3wv+AUJEFuRHLqw+8GN0YhM/+ucnxR0Z8atzeQ==",
+  "dgSpecHash": "ZN+di8Xp2ODuKSlY9dCCHSMKb7xWaCc/5nuNOOu3VGRoFHGqiDtN0sgSVf/PeAJ2WHu77l1e063qXYxxeu533Q==",
   "success": true,
   "projectFilePath": "D:\\repositórios\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.0.0\\microsoft.aspnetcore.mvc.razor.extensions.3.0.0.nupkg.sha512",
@@ -14,7 +15,7 @@
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.0.0\\microsoft.codeanalysis.razor.3.0.0.nupkg.sha512",
-    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\Victor Icoma\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
