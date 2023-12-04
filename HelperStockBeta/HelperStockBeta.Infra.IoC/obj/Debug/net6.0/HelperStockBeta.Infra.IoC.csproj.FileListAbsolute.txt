@@ -17,3 +17,5 @@ C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\refint\HelperStockBeta.Infra.IoC.dll
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\ref\HelperStockBeta.Infra.IoC.dll
+C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.runtimeconfig.json
+C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HelperStockBeta.Domain.Test": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53512;http://localhost:53516"
+    }
+  }
+}
